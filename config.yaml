@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "数学问答"
+title: "个人计算和可视化工具"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -30,7 +30,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Songqi Duan](https://songqi.online) {Year} | [蜀ICP备18027889号-1](https://beian.miit.gov.cn)"
+  footer: "&copy; [Songqi Duan](https://songqi.online) {Year} | [蜀ICP备18027889号-4](https://beian.miit.gov.cn)"
 
 markup:
   highlight:
